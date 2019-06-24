@@ -3,4 +3,4 @@ layout: misc
 title: About Koneho
 ---
 
-Koneho is an unknown. An illustrator. Blah blah blah.
+Born in Italy, Lloyd Adrian Pascual (or "Koneho"), is an illustrator specialising in the interplay between the illustrated world and the real world.
